@@ -1,0 +1,1 @@
+import{C as a,g as b}from"./axii.es.c9c93548.js";import{S as o}from"./Split.81f7379d.js";a(b(o,null,b("div",{block:!0,"block-height-500px":!0},"aaaaaaa"),b("div",null,"bbbbbbb")),document.getElementById("root"));

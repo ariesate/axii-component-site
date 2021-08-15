@@ -1,0 +1,1 @@
+import{x as e,C as f,g as o}from"./axii.es.c9c93548.js";import{I as s}from"./Input.f03dce75.js";import"./index.1d9f6fcb.js";const t=e("prefix"),i={prefix:()=>t,before:e("test"),suffix:e("suffix")};setTimeout((()=>{i.before.value=void 0}),1e3),f(o(s,null,i),document.getElementById("root"));
