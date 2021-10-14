@@ -1,0 +1,1 @@
+import{$ as e,z as o,j as t}from"./vendor.3b3f849b.js";import{I as f}from"./Input.2767a10d.js";import"./index.f7e44da3.js";const s=e("prefix"),r={prefix:()=>s,before:e("test"),suffix:e("suffix")};setTimeout((()=>{r.before.value=void 0}),1e3),o(t(f,null,r),document.getElementById("root"));

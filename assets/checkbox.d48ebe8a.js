@@ -1,0 +1,1 @@
+import{z as e,j as l,$ as t}from"./vendor.3b3f849b.js";import{C as d}from"./Checkbox.093bc40d.js";import"./index.f7e44da3.js";e(l("div",null,l("div",null,l(d,null,"test")),l("div",null,l(d,{disabled:!0},"test2 disabled")),l("div",null,l(d,{value:t(!0)},"test3 with ref value true"))),document.getElementById("root"));

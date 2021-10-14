@@ -1,0 +1,1 @@
+import{z as b,j as a}from"./vendor.3b3f849b.js";import{S as o}from"./Split.bdc62a59.js";b(a(o,null,a("div",{block:!0,"block-height-500px":!0},"aaaaaaa"),a("div",null,"bbbbbbb")),document.getElementById("root"));
